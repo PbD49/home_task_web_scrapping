@@ -1,0 +1,38 @@
+[
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/95917860?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": null,
+        "Название компании": "ООО ПУЛЬС АЙТИМ",
+        "Город": "Москва"
+    },
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/97607613?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": "3 200 – 4 000 $",
+        "Название компании": "WebGears Services",
+        "Город": "Москва"
+    },
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/95778303?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": "до 280 000 ₽",
+        "Название компании": "evrone.ru",
+        "Город": "Москва"
+    },
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/97553452?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": "150 000 – 250 000 ₽",
+        "Название компании": "ООО Фабрика Решений",
+        "Город": "Москва"
+    },
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/97039017?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": "200 000 – 300 000 ₽",
+        "Название компании": "Scalaxi",
+        "Город": "Москва"
+    },
+    {
+        "Ссылка": "https://spb.hh.ru/vacancy/96992871?query=python&hhtmFrom=vacancy_search_list",
+        "Зарплата": "до 120 000 ₽",
+        "Название компании": "ООО ВВХВ",
+        "Город": "Санкт-Петербург"
+    }
+]
